@@ -1,0 +1,7 @@
+#----First----
+
+a = input()
+s = 0
+for ch in a:
+    s += int(ch)
+print(s)
