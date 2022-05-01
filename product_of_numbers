@@ -1,5 +1,0 @@
-a = input()
-p = 0
-for ch in a:
-    p *= int(ch)
-print(p)
